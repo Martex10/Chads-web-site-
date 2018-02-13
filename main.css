@@ -1,0 +1,12 @@
+h1 {
+    text-align: center ;
+}
+#image {
+    background-image: url(page2img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+ #height-jumbotron {
+    height: 80%;
+ }
